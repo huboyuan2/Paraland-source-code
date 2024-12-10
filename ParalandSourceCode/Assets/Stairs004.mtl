@@ -1,0 +1,5 @@
+newmtl WF_CubeWorlds
+map_Kd WF_Texture-04-04.png
+Kd 1 1 1
+d 1
+

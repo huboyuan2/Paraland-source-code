@@ -1,0 +1,975 @@
+{"frames": [
+
+{
+	"filename": "Apple.png",
+	"frame": {"x":87,"y":96,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.533333,"y":0.5}
+},
+{
+	"filename": "Arrow.png",
+	"frame": {"x":30,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Axe.png",
+	"frame": {"x":93,"y":256,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Bag.png",
+	"frame": {"x":125,"y":256,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Beer.png",
+	"frame": {"x":61,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Belt.png",
+	"frame": {"x":157,"y":256,"w":32,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":8,"w":32,"h":22},
+	"sourceSize": {"w":32,"h":22},
+	"pivot": {"x":0.5,"y":0.363636}
+},
+{
+	"filename": "Blue Potion 2.png",
+	"frame": {"x":189,"y":256,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Blue Potion 3.png",
+	"frame": {"x":92,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Blue Potion.png",
+	"frame": {"x":117,"y":96,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Bone.png",
+	"frame": {"x":123,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Book 2.png",
+	"frame": {"x":221,"y":256,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30},
+	"pivot": {"x":0.5,"y":0.466667}
+},
+{
+	"filename": "Book 3.png",
+	"frame": {"x":0,"y":288,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30},
+	"pivot": {"x":0.5,"y":0.466667}
+},
+{
+	"filename": "Book.png",
+	"frame": {"x":32,"y":288,"w":32,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":29},
+	"sourceSize": {"w":32,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Bow.png",
+	"frame": {"x":147,"y":96,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":1,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31},
+	"pivot": {"x":0.533333,"y":0.483871}
+},
+{
+	"filename": "Bread.png",
+	"frame": {"x":64,"y":288,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Candle.png",
+	"frame": {"x":0,"y":0,"w":19,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":6,"y":0,"w":19,"h":32},
+	"sourceSize": {"w":19,"h":32},
+	"pivot": {"x":0.526316,"y":0.5}
+},
+{
+	"filename": "Cheese.png",
+	"frame": {"x":28,"y":64,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":3,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28},
+	"pivot": {"x":0.517241,"y":0.464286}
+},
+{
+	"filename": "Chest.png",
+	"frame": {"x":96,"y":288,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":31},
+	"sourceSize": {"w":32,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Coal.png",
+	"frame": {"x":27,"y":32,"w":28,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":5,"w":28,"h":24},
+	"sourceSize": {"w":28,"h":24},
+	"pivot": {"x":0.5,"y":0.458333}
+},
+{
+	"filename": "Copper Coin.png",
+	"frame": {"x":55,"y":32,"w":28,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":3,"w":28,"h":27},
+	"sourceSize": {"w":28,"h":27},
+	"pivot": {"x":0.5,"y":0.481481}
+},
+{
+	"filename": "Copper Ingot.png",
+	"frame": {"x":128,"y":288,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Copper Nugget.png",
+	"frame": {"x":177,"y":96,"w":30,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":9,"w":30,"h":19},
+	"sourceSize": {"w":30,"h":19},
+	"pivot": {"x":0.5,"y":0.368421}
+},
+{
+	"filename": "Crate.png",
+	"frame": {"x":160,"y":288,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Crystal.png",
+	"frame": {"x":207,"y":96,"w":30,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":2,"w":30,"h":29},
+	"sourceSize": {"w":30,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Cut Emerald.png",
+	"frame": {"x":0,"y":128,"w":30,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":2,"w":30,"h":30},
+	"sourceSize": {"w":30,"h":30},
+	"pivot": {"x":0.5,"y":0.466667}
+},
+{
+	"filename": "Cut Ruby.png",
+	"frame": {"x":30,"y":128,"w":30,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":2,"w":30,"h":29},
+	"sourceSize": {"w":30,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Cut Sapphire.png",
+	"frame": {"x":60,"y":128,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Cut Topaz.png",
+	"frame": {"x":83,"y":32,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":28,"h":32},
+	"sourceSize": {"w":28,"h":32},
+	"pivot": {"x":0.535714,"y":0.5}
+},
+{
+	"filename": "Diamond.png",
+	"frame": {"x":57,"y":64,"w":29,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":2,"w":29,"h":28},
+	"sourceSize": {"w":29,"h":28},
+	"pivot": {"x":0.482759,"y":0.5}
+},
+{
+	"filename": "Egg.png",
+	"frame": {"x":19,"y":0,"w":22,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":5,"y":3,"w":22,"h":27},
+	"sourceSize": {"w":22,"h":27},
+	"pivot": {"x":0.5,"y":0.481481}
+},
+{
+	"filename": "Emerald Staff.png",
+	"frame": {"x":154,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Emerald.png",
+	"frame": {"x":111,"y":32,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":1,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Empty Bottle.png",
+	"frame": {"x":192,"y":288,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Envolop.png",
+	"frame": {"x":224,"y":288,"w":32,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":4,"w":32,"h":27},
+	"sourceSize": {"w":32,"h":27},
+	"pivot": {"x":0.5,"y":0.444444}
+},
+{
+	"filename": "Fabric.png",
+	"frame": {"x":0,"y":320,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Feather.png",
+	"frame": {"x":86,"y":64,"w":29,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":2,"w":29,"h":29},
+	"sourceSize": {"w":29,"h":29},
+	"pivot": {"x":0.482759,"y":0.482759}
+},
+{
+	"filename": "Fish Steak.png",
+	"frame": {"x":32,"y":320,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Gear.png",
+	"frame": {"x":64,"y":320,"w":32,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":30},
+	"sourceSize": {"w":32,"h":30},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Gold Nugget.png",
+	"frame": {"x":185,"y":192,"w":31,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":9,"w":31,"h":19},
+	"sourceSize": {"w":31,"h":19},
+	"pivot": {"x":0.483871,"y":0.368421}
+},
+{
+	"filename": "Golden Coin.png",
+	"frame": {"x":139,"y":32,"w":28,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":3,"w":28,"h":27},
+	"sourceSize": {"w":28,"h":27},
+	"pivot": {"x":0.5,"y":0.481481}
+},
+{
+	"filename": "Golden Ingot.png",
+	"frame": {"x":96,"y":320,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Golden Key.png",
+	"frame": {"x":90,"y":128,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.533333,"y":0.5}
+},
+{
+	"filename": "Golden Sword.png",
+	"frame": {"x":216,"y":192,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Green Apple.png",
+	"frame": {"x":167,"y":32,"w":28,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":0,"w":28,"h":32},
+	"sourceSize": {"w":28,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Green Potion 2.png",
+	"frame": {"x":128,"y":320,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Green Potion 3.png",
+	"frame": {"x":0,"y":224,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Green Potion.png",
+	"frame": {"x":120,"y":128,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Ham.png",
+	"frame": {"x":160,"y":320,"w":32,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":26},
+	"sourceSize": {"w":32,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Hammer.png",
+	"frame": {"x":31,"y":224,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":31,"h":31},
+	"sourceSize": {"w":31,"h":31},
+	"pivot": {"x":0.483871,"y":0.483871}
+},
+{
+	"filename": "Heart.png",
+	"frame": {"x":192,"y":320,"w":32,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":29},
+	"sourceSize": {"w":32,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Helm.png",
+	"frame": {"x":41,"y":0,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Iron Armor.png",
+	"frame": {"x":62,"y":224,"w":31,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":1,"w":31,"h":31},
+	"sourceSize": {"w":31,"h":31},
+	"pivot": {"x":0.516129,"y":0.483871}
+},
+{
+	"filename": "Iron Boot.png",
+	"frame": {"x":171,"y":0,"w":27,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":27,"h":32},
+	"sourceSize": {"w":27,"h":32},
+	"pivot": {"x":0.481481,"y":0.5}
+},
+{
+	"filename": "Iron Helmet.png",
+	"frame": {"x":93,"y":224,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Iron Key.png",
+	"frame": {"x":150,"y":128,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Iron Shield.png",
+	"frame": {"x":180,"y":128,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Iron Sword.png",
+	"frame": {"x":210,"y":128,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Knife.png",
+	"frame": {"x":0,"y":160,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Lantern.png",
+	"frame": {"x":115,"y":64,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":0,"w":29,"h":32},
+	"sourceSize": {"w":29,"h":32},
+	"pivot": {"x":0.482759,"y":0.5}
+},
+{
+	"filename": "Leather Armor.png",
+	"frame": {"x":198,"y":0,"w":27,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":27,"h":32},
+	"sourceSize": {"w":27,"h":32},
+	"pivot": {"x":0.481481,"y":0.5}
+},
+{
+	"filename": "Leather Boot.png",
+	"frame": {"x":67,"y":0,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Leather Helmet.png",
+	"frame": {"x":144,"y":64,"w":29,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":0,"w":29,"h":32},
+	"sourceSize": {"w":29,"h":32},
+	"pivot": {"x":0.482759,"y":0.5}
+},
+{
+	"filename": "Leather.png",
+	"frame": {"x":224,"y":320,"w":32,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":1,"w":32,"h":31},
+	"sourceSize": {"w":32,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Magic Wand.png",
+	"frame": {"x":0,"y":352,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Map.png",
+	"frame": {"x":124,"y":224,"w":31,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":31,"h":29},
+	"sourceSize": {"w":31,"h":29},
+	"pivot": {"x":0.483871,"y":0.517241}
+},
+{
+	"filename": "Meat.png",
+	"frame": {"x":32,"y":352,"w":32,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":29},
+	"sourceSize": {"w":32,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Monster Egg.png",
+	"frame": {"x":93,"y":0,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Monster Eye.png",
+	"frame": {"x":195,"y":32,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":2,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Monster Meat.png",
+	"frame": {"x":155,"y":224,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":3,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.483871,"y":0.464286}
+},
+{
+	"filename": "Mushroom.png",
+	"frame": {"x":223,"y":32,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":1,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Obsidian.png",
+	"frame": {"x":225,"y":0,"w":27,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":27,"h":32},
+	"sourceSize": {"w":27,"h":32},
+	"pivot": {"x":0.481481,"y":0.5}
+},
+{
+	"filename": "Paper.png",
+	"frame": {"x":186,"y":224,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Pearl.png",
+	"frame": {"x":119,"y":0,"w":26,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":3,"w":26,"h":26},
+	"sourceSize": {"w":26,"h":26},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Pickaxe.png",
+	"frame": {"x":173,"y":64,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":29,"h":31},
+	"sourceSize": {"w":29,"h":31},
+	"pivot": {"x":0.517241,"y":0.483871}
+},
+{
+	"filename": "Red Potion 2.png",
+	"frame": {"x":64,"y":352,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Red Potion 3.png",
+	"frame": {"x":217,"y":224,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Red Potion.png",
+	"frame": {"x":30,"y":160,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Rope.png",
+	"frame": {"x":0,"y":256,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.516129,"y":0.5}
+},
+{
+	"filename": "Ruby Staff.png",
+	"frame": {"x":96,"y":352,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Ruby.png",
+	"frame": {"x":202,"y":64,"w":29,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":3,"w":29,"h":27},
+	"sourceSize": {"w":29,"h":27},
+	"pivot": {"x":0.482759,"y":0.481481}
+},
+{
+	"filename": "Rune Stone.png",
+	"frame": {"x":128,"y":352,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":2,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Sapphire Staff.png",
+	"frame": {"x":160,"y":352,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Sapphire.png",
+	"frame": {"x":0,"y":96,"w":29,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":5,"w":29,"h":25},
+	"sourceSize": {"w":29,"h":25},
+	"pivot": {"x":0.482759,"y":0.44}
+},
+{
+	"filename": "Scroll.png",
+	"frame": {"x":192,"y":352,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Shovel.png",
+	"frame": {"x":29,"y":96,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":29,"h":31},
+	"sourceSize": {"w":29,"h":31},
+	"pivot": {"x":0.517241,"y":0.483871}
+},
+{
+	"filename": "Silver Coin.png",
+	"frame": {"x":0,"y":64,"w":28,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":3,"w":28,"h":27},
+	"sourceSize": {"w":28,"h":27},
+	"pivot": {"x":0.5,"y":0.481481}
+},
+{
+	"filename": "Silver Ingot.png",
+	"frame": {"x":224,"y":352,"w":32,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":3,"w":32,"h":28},
+	"sourceSize": {"w":32,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Silver Key.png",
+	"frame": {"x":60,"y":160,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Silver Nugget.png",
+	"frame": {"x":90,"y":160,"w":30,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":8,"w":30,"h":20},
+	"sourceSize": {"w":30,"h":20},
+	"pivot": {"x":0.5,"y":0.4}
+},
+{
+	"filename": "Silver Sword.png",
+	"frame": {"x":31,"y":256,"w":31,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":31,"h":32},
+	"sourceSize": {"w":31,"h":32},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Skull.png",
+	"frame": {"x":62,"y":256,"w":31,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":2,"w":31,"h":28},
+	"sourceSize": {"w":31,"h":28},
+	"pivot": {"x":0.483871,"y":0.5}
+},
+{
+	"filename": "Slime Gel.png",
+	"frame": {"x":0,"y":384,"w":32,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":5,"w":32,"h":26},
+	"sourceSize": {"w":32,"h":26},
+	"pivot": {"x":0.5,"y":0.423077}
+},
+{
+	"filename": "String.png",
+	"frame": {"x":58,"y":96,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":0,"w":29,"h":31},
+	"sourceSize": {"w":29,"h":31},
+	"pivot": {"x":0.482759,"y":0.516129}
+},
+{
+	"filename": "Topaz Staff.png",
+	"frame": {"x":32,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Topaz.png",
+	"frame": {"x":120,"y":160,"w":30,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":3,"w":30,"h":28},
+	"sourceSize": {"w":30,"h":28},
+	"pivot": {"x":0.5,"y":0.464286}
+},
+{
+	"filename": "Torch.png",
+	"frame": {"x":145,"y":0,"w":26,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":3,"y":0,"w":26,"h":32},
+	"sourceSize": {"w":26,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Water Bottle.png",
+	"frame": {"x":64,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wine 2.png",
+	"frame": {"x":96,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wine.png",
+	"frame": {"x":150,"y":160,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.466667,"y":0.5}
+},
+{
+	"filename": "Wizard Hat.png",
+	"frame": {"x":180,"y":160,"w":30,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":32},
+	"sourceSize": {"w":30,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wood Log.png",
+	"frame": {"x":210,"y":160,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":1,"w":30,"h":31},
+	"sourceSize": {"w":30,"h":31},
+	"pivot": {"x":0.5,"y":0.483871}
+},
+{
+	"filename": "Wooden Armor.png",
+	"frame": {"x":128,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wooden Plank.png",
+	"frame": {"x":160,"y":384,"w":32,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":5,"w":32,"h":26},
+	"sourceSize": {"w":32,"h":26},
+	"pivot": {"x":0.5,"y":0.423077}
+},
+{
+	"filename": "Wooden Shield.png",
+	"frame": {"x":0,"y":192,"w":30,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":1,"y":2,"w":30,"h":29},
+	"sourceSize": {"w":30,"h":29},
+	"pivot": {"x":0.5,"y":0.482759}
+},
+{
+	"filename": "Wooden Staff.png",
+	"frame": {"x":192,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wooden Sword.png",
+	"frame": {"x":224,"y":384,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Wool.png",
+	"frame": {"x":0,"y":32,"w":27,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":2,"y":3,"w":27,"h":27},
+	"sourceSize": {"w":27,"h":27},
+	"pivot": {"x":0.518519,"y":0.481481}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "RPGIcon.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":416},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6aafc32cdb6ae7dabf814ebb53cf073e:d44e94c1986f5a3525f227cb958eb4b0:da2770ed88ac9281ff57738d7cc698b8$"
+}
+}

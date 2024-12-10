@@ -1,0 +1,150 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 465e4c7be99e5c345bc3dbf0dce90fc7, type: 3}
+  m_Name: EnemyData_Local
+  m_EditorClassIdentifier: 
+  spawnTexts:
+  - 
+  - 
+  tests:
+  - name: "\u53F2\u83B1\u59C6"
+    health: 50
+    attack: 15
+    defence: 5
+    gold: 3
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 5326437510566420739, guid: 4c83c44e654dd2847ac7def33ee0745c, type: 3}
+  - name: "\u5C16\u523A\u9F9F"
+    health: 50
+    attack: 15
+    defence: 8
+    gold: 4
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 4431916451898387633, guid: f73da2880715cc14eadc0591d4dd6d20, type: 3}
+  - name: "\u4EA1\u7075\u58EB\u5175"
+    health: 30
+    attack: 16
+    defence: 12
+    gold: 6
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 6326705956191543428, guid: 65291929647358843a95cee365ed2e07, type: 3}
+  - name: "\u5E7D\u6D6E\u602A"
+    health: 25
+    attack: 25
+    defence: 12
+    gold: 7
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 3396666045639425623, guid: 365d857e50ab02141a70cb75428839b4, type: 3}
+  - name: "\u9AA8\u5934\u5175"
+    health: 25
+    attack: 40
+    defence: 15
+    gold: 10
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 6642550460907723320, guid: ea4c464242aea7247adb6fc7df3068ec, type: 3}
+  - name: "\u5B9D\u7BB1\u602A"
+    health: 50
+    attack: 50
+    defence: 15
+    gold: 50
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: 39
+    skill: 3
+    go: {fileID: 5128149130186949665, guid: 09e470fd86532be4687e8c1bdae954f0, type: 3}
+  - name: "\u5CA9\u77F3\u5DE8\u9B54"
+    health: 1000
+    attack: 25
+    defence: 25
+    gold: 40
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 7414982423565797400, guid: 7ee88d0e036c49b459d332f0efbc7878, type: 3}
+  - name: "\u6CD5\u5E08"
+    health: 100
+    attack: 20
+    defence: 20
+    gold: 12
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 1
+    go: {fileID: 6218207954769223022, guid: 64e49960b4f532141994009eae769d85, type: 3}
+  - name: "\u8759\u8760"
+    health: 100
+    attack: 40
+    defence: 22
+    gold: 12
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 2
+    go: {fileID: 4308865065289418081, guid: 68d49503dcb34694498a365ed1283af0, type: 3}
+  - name: "\u517D\u4EBA"
+    health: 300
+    attack: 40
+    defence: 25
+    gold: 15
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: -1
+    skill: 0
+    go: {fileID: 4617317542038999640, guid: f61b41762bf2ceb47a73a5b389eb718d, type: 3}
+  - name: "\u77E9\u9635\u6C34\u6676"
+    health: 1000
+    attack: 50
+    defence: 40
+    gold: 0
+    insight: 0
+    key1: 0
+    key2: 0
+    key3: 0
+    diedialog: 38
+    skill: 2
+    go: {fileID: 5587976083524904108, guid: 3a58ebd72dc696b468d834afb7d667d3, type: 3}

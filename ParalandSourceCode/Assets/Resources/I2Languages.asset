@@ -1,0 +1,1087 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Language
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8BED\u8A00"
+      - language
+      - "\u8A00\u8A9E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8BED\u8A00"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8BED\u8A00"
+      - language
+      - "\u8A00\u8A9E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u65C1\u767D"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u65C1\u767D"
+      - narrator
+      - "\u30AC\u30A4\u30C9"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u97F3\u6548"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u97F3\u6548"
+      - sound effect
+      - "\u52B9\u679C\u97F3"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u753B\u9762\u8BBE\u7F6E"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u753B\u9762\u8BBE\u7F6E"
+      - Quality Settings
+      - "\u753B\u8CEA\u8A2D\u5B9A"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u97F3\u4E50"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u97F3\u4E50"
+      - Music
+      - "\u97F3\u697D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F4E"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F4E"
+      - low
+      - "\u4F4E"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4E2D"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E2D"
+      - medium
+      - "\u4E2D"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u9AD8"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9AD8"
+      - high
+      - "\u9AD8"
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u77E9\u9635\u6C34\u6676"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u77E9\u9635\u6C34\u6676"
+      - Matrix Crystal
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8759\u8760"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8759\u8760"
+      - bat
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6CD5\u5E08"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6CD5\u5E08"
+      - Mage
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u517D\u4EBA"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u517D\u4EBA"
+      - Orc
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5E7D\u6D6E\u602A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5E7D\u6D6E\u602A"
+      - XFCOM
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u9AA8\u5934\u5175"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9AA8\u5934\u5175"
+      - Skeleton Soldier
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5B9D\u7BB1\u602A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5B9D\u7BB1\u602A"
+      - Mimics
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4EA1\u7075\u58EB\u5175"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4EA1\u7075\u58EB\u5175"
+      - Undead soldier
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5C16\u523A\u9F9F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5C16\u523A\u9F9F"
+      - Spiked turtle
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u53F2\u83B1\u59C6"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u53F2\u83B1\u59C6"
+      - Slime
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5CA9\u77F3\u5DE8\u9B54"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5CA9\u77F3\u5DE8\u9B54"
+      - Rock Troll
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u52A0\u8F7D\u8FDB\u5EA6"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u52A0\u8F7D\u8FDB\u5EA6"
+      - Load
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u65B0\u6E38\u620F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u65B0\u6E38\u620F"
+      - New Game
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8BF7\u9009\u62E9\u6E38\u620F\u6A21\u5F0F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8BF7\u9009\u62E9\u6E38\u620F\u6A21\u5F0F"
+      - Please select a game mode
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F5C\u8005"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F5C\u8005"
+      - Developer
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6211\u60F3\u7528\u8FD9\u79CD\u89C6\u89D2\u518D\u901B\u901B"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6211\u60F3\u7528\u8FD9\u79CD\u89C6\u89D2\u518D\u901B\u901B"
+      - I want to explore the world more with this camera perspective
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u91CD\u65B0\u6E38\u73A9"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u91CD\u65B0\u6E38\u73A9"
+      - Play again
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u9000\u51FA\u6E38\u620F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u9000\u51FA\u6E38\u620F"
+      - Quit game
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6211\u5230\u5E95\u662F\u4E0A\u4E86\u4E24\u6BB5\u53F0\u9636\u8FD8\u662F\u8D70\u4E86\u4E00\u6BB5\u5E73\u8DEF
+        \u771F\u5947\u602A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6211\u5230\u5E95\u662F\u4E0A\u4E86\u4E24\u6BB5\u53F0\u9636\u8FD8\u662F\u8D70\u4E86\u4E00\u6BB5\u5E73\u8DEF\uFF1F\u771F\u5947\u602A"
+      - Did I go up two flights of stairs or did I walk a flat road? It's weird
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u4E2A\u602A\u7269\u4F2A\u88C5\u5B9D\u7BB1\u4F2A\u88C5\u7684\u53EF\u592A\u50CF\u4E86
+        \u6211\u5DEE\u70B9\u5C31\u88AB\u5B83\u7ED9\u9A97\u4E86 \u5E78\u4E8F\u6211\u8DB3\u591F\u5C0F\u5FC3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u4E2A\u602A\u7269\u4F2A\u88C5\u5B9D\u7BB1\u4F2A\u88C5\u7684\u53EF\u592A\u50CF\u4E86\uFF0C\u6211\u5DEE\u70B9\u5C31\u88AB\u5B83\u7ED9\u9A97\u4E86\uFF0C\u5E78\u4E8F\u6211\u8DB3\u591F\u5C0F\u5FC3"
+      - This monster disguised treasure chest was so similar that I almost fell for
+        it, but thankfully I was careful
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u9A91\u58EB\u76FE \u9632\u5FA1\u529B+12 \u636E\u8BF4\u4E00\u4F4D\u9A91\u58EB\u66FE\u7528\u5B83\u62B5\u6321\u5DE8\u4EBA\u7684\u653B\u51FB"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u9A91\u58EB\u76FE<sprite=55> \uFF0C\u9632\u5FA1\u529B+12\u3002\u636E\u8BF4\u4E00\u4F4D\u9A91\u58EB\u66FE\u7528\u5B83\u62B5\u6321\u5DE8\u4EBA\u7684\u653B\u51FB"
+      - Gain Knight's Shield <sprite=55> and +12 Defense. It is said that a knight
+        once used it to fend off the attacks of giants
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u627E\u5230\u864E\u775B\u77F3 \u4F69\u6234\u5B83\u7684\u4EBA\u80FD\u83B7\u5F97\u8FDB\u5165\u6D53\u96FE\u7684\u80FD\u529B
+        \u53EF\u4EE5\u53BB\u66F4\u4F4E\u7684\u5730\u65B9\u63A2\u7D22\u4E86"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u627E\u5230\u864E\u775B\u77F3\uFF0C\u4F69\u6234\u5B83\u7684\u4EBA\u80FD\u83B7\u5F97\u8FDB\u5165\u6D53\u96FE\u7684\u80FD\u529B\uFF0C\u53EF\u4EE5\u53BB\u66F4\u4F4E\u7684\u5730\u65B9\u63A2\u7D22\u4E86"
+      - Find the Tiger's Eye Stone, and the wearer will gain the ability to enter
+        the fog, allowing them to explore the lower grounds
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5173\u4E8E\u6D53\u96FE\u7684\u8C03\u67E5\u62A5\u544A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5173\u4E8E\u6D53\u96FE\u7684\u8C03\u67E5\u62A5\u544A"
+      - Investigation report on the fog
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5173\u4E8E\u6C34\u6676\u7684\u8C03\u67E5\u62A5\u544A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5173\u4E8E\u6C34\u6676\u7684\u8C03\u67E5\u62A5\u544A"
+      - Investigation report on the crystal
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u636E\u8BF4\u94F2\u5B50\u5728\u5CA9\u77F3\u5DE8\u9B54\u9644\u8FD1 \u5CA9\u77F3\u5DE8\u9B54\u7684\u6218\u6597\u529B\u6BD4\u8F83\u5F3A
+        \u5EFA\u8BAE\u505A\u597D\u5145\u5206\u51C6\u5907"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u636E\u8BF4\u94F2\u5B50\u5728\u5CA9\u77F3\u5DE8\u9B54\u9644\u8FD1\uFF0C\u5CA9\u77F3\u5DE8\u9B54\u7684\u6218\u6597\u529B\u6BD4\u8F83\u5F3A\uFF0C\u5EFA\u8BAE\u505A\u597D\u5145\u5206\u51C6\u5907"
+      - It is said that the shovel is near the rock troll, and the rock troll is
+        relatively strong in combat, so it is recommended to be fully prepared
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u90A3\u4E48\u8BF7\u95EE\u94F2\u5B50\u5728\u54EA\u91CC\u5462"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u90A3\u4E48\u8BF7\u95EE\u94F2\u5B50\u5728\u54EA\u91CC\u5462\uFF1F"
+      - So where is the shovel?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u52C7\u8005"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u52C7\u8005"
+      - Quixote
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4E00\u5757\u53E4\u8001\u7684\u7EAA\u5FF5\u7891 \u9020\u578B\u50CF\u4E00\u628A\u5251
+        \u7891\u6587\u5DF2\u6A21\u7CCA\u4E0D\u6E05"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E00\u5757\u53E4\u8001\u7684\u7EAA\u5FF5\u7891\uFF0C\u9020\u578B\u50CF\u4E00\u628A\u5251\uFF0C\u7891\u6587\u5DF2\u6A21\u7CCA\u4E0D\u6E05\u3002"
+      - An ancient monument, shaped like a sword, with an inscription that has been
+        blurred.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u770B\u770B\u6709\u4EC0\u4E48\u60F3\u4E70\u7684"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u770B\u770B\u6709\u4EC0\u4E48\u60F3\u4E70\u7684"
+      - See what you want to buy
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6CD5\u5E08\u7684\u653B\u51FB\u80FD\u591F\u65E0\u89C6\u9632\u5FA1\u5BF9\u4F60\u6210\u56FA\u5B9A\u4F24\u5BB3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6CD5\u5E08\u7684\u653B\u51FB\u80FD\u591F\u65E0\u89C6\u9632\u5FA1\u5BF9\u4F60\u6210\u56FA\u5B9A\u4F24\u5BB3\u3002"
+      - The Mage's attacks can ignore defenses and deal a fixed amount of damage
+        to you.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u804A\u5929"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u804A\u5929"
+      - talk
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4EA4\u6613"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4EA4\u6613"
+      - trade
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6B22\u8FCE\u4E0B\u6B21\u5149\u4E34"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B22\u8FCE\u4E0B\u6B21\u5149\u4E34"
+      - Welcome to your next visit
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D3920 +3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920<sprite=39>   <sprite=56>+3"
+      - cost20<sprite=39>   <sprite=56>+3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D3920 +500"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920<sprite=39>   <sprite=49>+500"
+      - cost20<sprite=39>   <sprite=49>+500
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6B22\u8FCE\u6765\u5230\u5E0C\u9732\u5FB7\u7684\u5546\u5E97 \u5728\u8FD9\u91CC
+        \u4F60\u53EF\u4EE5\u82B1\u8D39\u91D1\u5E01\u63D0\u5347\u80FD\u529B,\u4E5F\u53EF\u4EE5\u83B7\u53D6\u4E00\u4E9B\u60C5\u62A5"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B22\u8FCE\u6765\u5230\u5E0C\u9732\u5FB7\u7684\u5546\u5E97\u3002\u5728\u8FD9\u91CC\uFF0C\u4F60\u53EF\u4EE5\u82B1\u8D39\u91D1\u5E01\u63D0\u5347\u80FD\u529B,\u4E5F\u53EF\u4EE5\u83B7\u53D6\u4E00\u4E9B\u60C5\u62A5"
+      - Welcome to Hillud's store. Here, you can spend gold to improve your abilities
+        and get some information
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5E0C\u9732\u5FB7"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5E0C\u9732\u5FB7"
+      - Hillud
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u94C1\u94A5\u5319"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u94C1\u94A5\u5319"
+      - Obtain the Iron Key
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u795D\u60A8\u6E38\u620F\u6109\u5FEB"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u795D\u60A8\u6E38\u620F\u6109\u5FEB"
+      - Have fun
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u56F0\u96BE"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u56F0\u96BE"
+      - difficult
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4E2D\u7B49"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E2D\u7B49"
+      - medium
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u7B80\u5355"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7B80\u5355"
+      - easy
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8BF7\u9009\u62E9\u6E38\u620F\u96BE\u5EA6,\u4E0D\u540C\u7684\u96BE\u5EA6\u5C06\u51B3\u5B9A\u73A9\u5BB6\u7684\u521D\u59CB\u6570\u503C"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8BF7\u9009\u62E9\u6E38\u620F\u96BE\u5EA6,\u4E0D\u540C\u7684\u96BE\u5EA6\u5C06\u51B3\u5B9A\u73A9\u5BB6\u7684\u521D\u59CB\u6570\u503C"
+      - Please select the difficulty of the game, different difficulty will determine
+        the player's initial value
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6240\u4EE5 \u4F60\u9700\u8981\u6D88\u706D\u602A\u7269 \u63A2\u7D22\u4E16\u754C
+        \u5E76\u627E\u5BFB\u95EE\u9898\u7684\u6839\u6E90"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6240\u4EE5\uFF0C\u4F60\u9700\u8981\u6D88\u706D\u602A\u7269\uFF0C\u63A2\u7D22\u4E16\u754C\uFF0C\u5E76\u627E\u5BFB\u95EE\u9898\u7684\u6839\u6E90\u3002"
+      - So, you'll have to destroy monsters, explore the world, and find the root
+        of the problems.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u4E9B \u76F8\u90BB \u7684\u5730\u5757\u53EF\u4EE5\u884C\u8D70\u901A\u8FC7
+        \u56E0\u6B64 \u602A\u7269\u4EEC\u8F7B\u677E\u8D8A\u8FC7\u5C4F\u969C\u6765\u5230\u4EBA\u7C7B\u7684\u9886\u5730"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u4E9B\u201C\u76F8\u90BB\u201D\u7684\u5730\u5757\u53EF\u4EE5\u884C\u8D70\u901A\u8FC7\u3002\u56E0\u6B64\uFF0C\u602A\u7269\u4EEC\u8F7B\u677E\u8D8A\u8FC7\u5C4F\u969C\u6765\u5230\u4EBA\u7C7B\u7684\u9886\u5730\u3002"
+      - These "adjacent" plots can be walked through. As a result, the monsters easily
+        crossed the barrier to human territory.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u91CC\u662FParaland\u5927\u9646 \u56E0\u4E3A\u4E00\u4E9B\u5F02\u53D8\u7684\u53D1\u751F
+        \u539F\u672C\u8FD1\u5927\u8FDC\u5C0F\u7684\u900F\u89C6\u6CD5\u5219\u6D88\u5931\u4E86
+        \u53D6\u800C\u4EE3\u4E4B\u7684\u662F \u7279\u5B9A\u7684\u89C6\u89D2\u4E0B\u539F\u672C\u4E0D\u76F8\u90BB\u7684\u5730\u5757\u770B\u4E0A\u53BB\u76F8\u90BB"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u91CC\u662FParaland\u5927\u9646\u3002\u56E0\u4E3A\u4E00\u4E9B\u5F02\u53D8\u7684\u53D1\u751F\uFF0C\u539F\u672C\u8FD1\u5927\u8FDC\u5C0F\u7684\u900F\u89C6\u6CD5\u5219\u6D88\u5931\u4E86\u3002\u53D6\u800C\u4EE3\u4E4B\u7684\u662F\uFF0C\u7279\u5B9A\u7684\u89C6\u89D2\u4E0B\u539F\u672C\u4E0D\u76F8\u90BB\u7684\u5730\u5757\u770B\u4E0A\u53BB\u76F8\u90BB\u3002"
+      - This is the continent of Paraland. Because of some abnormal changes, the
+        original perspective law of near big and far small has disappeared. Instead,
+        plots that are not originally adjacent appear to be adjacent from a given
+        perspective.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D3920\u91D1\u5E01 \u5373\u53EF\u83B7\u5F97"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920\u91D1\u5E01\n\u5373\u53EF\u83B7\u5F97"
+      - 'cost20gold
+
+        you can get'
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u540D\u79F0"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u540D\u79F0 \u53F2\u83B1\u59C6"
+      - name Slime
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6311\u6218"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6311\u6218"
+      - challenge
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u53D6\u6D88"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u53D6\u6D88"
+      - cancel
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u7279\u6B8A \u65E0"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u7279\u6B8A \u65E0"
+      - Special None
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u603B\u4F24\u5BB3 ???"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u603B\u4F24\u5BB3 ???"
+      - Total Damage ???
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Number of rounds 111
+      TermType: 0
+      Description: 
+      Languages:
+      - Number of rounds 111
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u56DE\u5408\u6570 111"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u56DE\u5408\u6570 111"
+      - Number of rounds 111
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u540D\u79F0 \u53F2\u83B1\u59C6"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F7F\u7528 \u6316\u6398"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F7F\u7528  <sprite=84> \u6316\u6398"
+      - use  <sprite=84>  to dig
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6316\u6398"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6316\u6398"
+      - dig
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F20\u9001\u5230\u6559\u5B66\u5173\u5361"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F20\u9001\u5230\u6559\u5B66\u5173\u5361\uFF1F"
+      - Teleporting to the tutorial level?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F20\u9001\u5230\u4E3B\u5173\u5361"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F20\u9001\u5230\u4E3B\u5173\u5361\uFF1F"
+      - Teleported to the main level?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u786E\u8BA4\u9000\u51FA\u6E38\u620F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u786E\u8BA4\u9000\u51FA\u6E38\u620F\uFF1F"
+      - Confirmed to quit the game?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u786E\u8BA4\u91CD\u73A9\u6E38\u620F"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u786E\u8BA4\u91CD\u73A9\u6E38\u620F\uFF1F"
+      - Confirm to replay the game?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u786E\u8BA4"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u786E\u8BA4"
+      - yes
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5F00\u9501\u6D88\u8017 x5"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5F00\u9501\u6D88\u8017    <sprite=4> x5"
+      - unlocking costs    <sprite=4> x5
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: Unlocking costs x1
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u91CC\u662FParaland\u5927\u9646"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u91CC\u662FParaland\u5927\u9646\u3002\u56E0\u4E3A\u4E00\u4E9B\u5F02\u53D8\u7684\u53D1\u751F\uFF0C\u539F\u672C\u8FD1\u5927\u8FDC\u5C0F\u7684\u900F\u89C6\u6CD5\u5219\u6D88\u5931\u4E86\u3002\u53D6\u800C\u4EE3\u4E4B\u7684\u662F\uFF0C\u7279\u5B9A\u7684\u89C6\u89D2\u4E0B\u539F\u672C\u4E0D\u76F8\u90BB\u7684\u5730\u5757\u770B\u4E0A\u53BB\u76F8\u90BB\u3002"
+      - This is the continent of Paraland. Because of some abnormal changes, the
+        original perspective law of near big and far small has disappeared. Instead,
+        plots that are not originally adjacent appear to be adjacent from a given
+        perspective.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6240\u4EE5"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6240\u4EE5\uFF0C\u4F60\u9700\u8981\u6D88\u706D\u602A\u7269\uFF0C\u63A2\u7D22\u4E16\u754C\uFF0C\u5E76\u627E\u5BFB\u95EE\u9898\u7684\u6839\u6E90\u3002"
+      - So, you'll have to destroy monsters, explore the world, and find the root
+        of the problems.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6B22\u8FCE\u6765\u5230\u5E0C\u9732\u5FB7\u7684\u5546\u5E97"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6B22\u8FCE\u6765\u5230\u5E0C\u9732\u5FB7\u7684\u5546\u5E97\u3002\u5728\u8FD9\u91CC\uFF0C\u4F60\u53EF\u4EE5\u82B1\u8D39\u91D1\u5E01\u63D0\u5347\u80FD\u529B,\u4E5F\u53EF\u4EE5\u83B7\u53D6\u4E00\u4E9B\u60C5\u62A5"
+      - Welcome to Hillud's store. Here, you can spend gold to improve your abilities
+        and get some information
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u636E\u8BF4\u94F2\u5B50\u5728\u5CA9\u77F3\u5DE8\u9B54\u9644\u8FD1"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u636E\u8BF4\u94F2\u5B50\u5728\u5CA9\u77F3\u5DE8\u9B54\u9644\u8FD1\uFF0C\u5CA9\u77F3\u5DE8\u9B54\u7684\u6218\u6597\u529B\u6BD4\u8F83\u5F3A\uFF0C\u5EFA\u8BAE\u505A\u597D\u5145\u5206\u51C6\u5907"
+      - It is said that the shovel is near the rock troll, and the rock troll is
+        relatively strong in combat, so it is recommended to be fully prepared
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u9A91\u58EB\u76FE"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u9A91\u58EB\u76FE<sprite=55> \uFF0C\u9632\u5FA1\u529B+12\u3002\u636E\u8BF4\u4E00\u4F4D\u9A91\u58EB\u66FE\u7528\u5B83\u62B5\u6321\u5DE8\u4EBA\u7684\u653B\u51FB"
+      - Gain Knight's Shield <sprite=55> and +12 Defense. It is said that a knight
+        once used it to fend off the attacks of giants
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u627E\u5230\u864E\u775B\u77F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u627E\u5230\u864E\u775B\u77F3\uFF0C\u4F69\u6234\u5B83\u7684\u4EBA\u80FD\u83B7\u5F97\u8FDB\u5165\u6D53\u96FE\u7684\u80FD\u529B\uFF0C\u53EF\u4EE5\u53BB\u66F4\u4F4E\u7684\u5730\u65B9\u63A2\u7D22\u4E86"
+      - Find the Tiger's Eye Stone, and the wearer will gain the ability to enter
+        the fog, allowing them to explore the lower grounds
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u4E2A\u602A\u7269\u4F2A\u88C5\u5B9D\u7BB1\u4F2A\u88C5\u7684\u53EF\u592A\u50CF\u4E86"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u4E2A\u602A\u7269\u4F2A\u88C5\u5B9D\u7BB1\u4F2A\u88C5\u7684\u53EF\u592A\u50CF\u4E86\uFF0C\u6211\u5DEE\u70B9\u5C31\u88AB\u5B83\u7ED9\u9A97\u4E86\uFF0C\u5E78\u4E8F\u6211\u8DB3\u591F\u5C0F\u5FC3"
+      - This monster disguised treasure chest was so similar that I almost fell for
+        it, but thankfully I was careful
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4E00\u5757\u53E4\u8001\u7684\u7EAA\u5FF5\u7891"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4E00\u5757\u53E4\u8001\u7684\u7EAA\u5FF5\u7891\uFF0C\u9020\u578B\u50CF\u4E00\u628A\u5251\uFF0C\u7891\u6587\u5DF2\u6A21\u7CCA\u4E0D\u6E05\u3002"
+      - An ancient monument, shaped like a sword, with an inscription that has been
+        blurred.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u54C8\u54C8"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u54C8\u54C8\uFF0C\u4F60\u771F\u6709\u610F\u601D\uFF0C\u8FD9\u6837\u4E00\u6765\u6211\u7684\u6E38\u620F\u8BBE\u8BA1\u4E2D\u7684\u969C\u773C\u6CD5\u90FD\u88AB\u4F60\u770B\u7A7F\u4E86\uFF0C\u4E0D\u8FC7\u4F60\u5F00\u5FC3\u5C31\u597D"
+      - Haha, you're so interesting, so you can see through all the tricks in my
+        game design, just have fun
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u7EA2\u5B9D\u77F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u7EA2\u5B9D\u77F3\uFF0C\u653B\u51FB\u529B+2"
+      - Gain Ruby and gain +2 Attack
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u6708\u5149\u5251"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u6708\u5149\u5251 <sprite=89> \uFF0C\u653B\u51FB\u529B+12\u3002\u636E\u8BF4\u4E0A\u4EFB\u5251\u4E3B\u5728\u6325\u5251\u65F6\u80FD\u770B\u5230\u5E7D\u6697\u7684\u7684\u6708\u5149"
+      - Gain Moonlight Sword <sprite=89> and +12 Attack. It is said that the previous
+        sword master could see the dim moonlight when he swung his sword
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u60A8\u5DF2\u7ECF\u9886\u609F\u4E86\u6E38\u620F\u73A9\u6CD5"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u60A8\u5DF2\u7ECF\u9886\u609F\u4E86\u6E38\u620F\u73A9\u6CD5\uFF0C\u8BF7\u5F00\u59CB\u4F60\u7684\u65C5\u7A0B\u5427\uFF01"
+      - Now that you've learned how to play, start your journey!
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u5927\u8840\u74F6"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u5927\u8840\u74F6\uFF0C\u751F\u547D\u503C+400"
+      - Gain a large blood vial with +400 health
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u7EFF\u5B9D\u77F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u7EFF\u5B9D\u77F3\uFF0C\u653B\u51FB+2\uFF0C\u9632\u5FA1+2"
+      - Gain Emeralds, +2 Attack, +2 Defense
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u84DD\u5B9D\u77F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u84DD\u5B9D\u77F3\uFF0C\u9632\u5FA1\u529B+2"
+      - Gain Sapphire and gain +2 Defense
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u5C0F\u8840\u74F6"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u5C0F\u8840\u74F6\uFF0C\u751F\u547D\u503C+200"
+      - Gain a small blood vial with +200 health
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8BF7\u5C1D\u8BD5\u8F6C\u52A8\u89C6\u89D2"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8BF7\u5C1D\u8BD5\u8F6C\u52A8\u89C6\u89D2\uFF0C\u8D70\u5230\u5BF9\u9762\u7684\u5730\u5757"
+      - Try turning the camera and walking to the opposite block
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u4F60\u6765\u6211\u8FD9\u91CC\u8FD9\u4E48\u591A\u6B21"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u4F60\u6765\u6211\u8FD9\u91CC\u8FD9\u4E48\u591A\u6B21\uFF0C\u4E5F\u7B97\u662F\u8001\u4E3B\u987E\u4E86\uFF0C\u6211\u9001\u4F60\u4E00\u628A\u94A5\u5319\u4F5C\u4E3A\u793C\u7269\u5427"
+      - You've come to me so many times, and you're a regular customer, so I'll give
+        you a key as a gift
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6708\u5149\u5251"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8C22\u8C22\u4E0D\u7528\u4E86"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8C22\u8C22\uFF0C\u4E0D\u7528\u4E86"
+      - No,thanks
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8C22\u8C22\u4F60\u4F60\u771F\u597D"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8C22\u8C22\u4F60\uFF0C\u4F60\u771F\u597D"
+      - Thank you, you're so nice
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6C34\u6676\u88AB\u7834\u574F\u4E86"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6C34\u6676\u88AB\u7834\u574F\u4E86\uFF0C\u8FD9\u4E2A\u533A\u57DF\u7684\u900F\u89C6\u6CD5\u5219\u91CD\u65B0\u56DE\u590D\u6B63\u5E38"
+      - The crystal is destroyed, and the law of perspective in this area returns
+        to normal
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6211\u53D1\u73B0\u6709\u4E00\u79CD\u540D\u4E3A\u864E\u775B\u77F3\u7684\u5B9D\u7269"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6211\u53D1\u73B0\u6709\u4E00\u79CD\u540D\u4E3A\u864E\u775B\u77F3\u7684\u5B9D\u7269\u3002\u636E\u8BF4\u5B83\u88AB\u6240\u5728\u5CA9\u77F3\u5DE8\u4EBA\u9644\u8FD1\u7684\u4E00\u6247\u95E8\u540E\u3002\u4F69\u6234\u5B83\u8FDB\u5165\u6D53\u96FE\u65F6\u6D53\u96FE\u4F1A\u968F\u4E4B\u6D88\u9000\u3002\u4E5F\u8BB8\u6D53\u96FE\u4E0B\u85CF\u7740\u4EC0\u4E48\u5B9D\u7269
+        \u3002--\u5192\u9669\u5BB6\u4F69\u5947"
+      - I found a treasure called Tiger's Eye. It is said to be behind a door near
+        the rock giant. When you wear it into a thick fog, the fog will subside.
+        Maybe there's something hidden under the fog. --Paige the Adventurer
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5728\u98CE\u8F66\u7684\u9644\u8FD1\u6709\u4E00\u5757\u7EAA\u5FF5\u7891"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5728\u98CE\u8F66\u7684\u9644\u8FD1\u6709\u4E00\u5757\u7EAA\u5FF5\u7891\uFF0C\u636E\u8BF4\u66FE\u7ECF\u6709\u4E00\u4F4D\u52C7\u58EB\u5C06\u4ED6\u7684\u5251\u57CB\u5728\u4E0B\u9762\u3002\u5982\u679C\u4F60\u6709\u94F2\u5B50\uFF0C\u53EF\u4EE5\u6316\u6316\u770B\u3002"
+      - There is a monument near the windmill where it is said that a warrior once
+        buried his sword underneath. If you have a shovel, dig and see.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u8FD9\u4E9B\u76F8\u90BB\u7684\u5730\u5757\u53EF\u4EE5\u884C\u8D70\u901A\u8FC7"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u8FD9\u4E9B\u201C\u76F8\u90BB\u201D\u7684\u5730\u5757\u53EF\u4EE5\u884C\u8D70\u901A\u8FC7\u3002\u56E0\u6B64\uFF0C\u602A\u7269\u4EEC\u8F7B\u677E\u8D8A\u8FC7\u5C4F\u969C\u6765\u5230\u4EBA\u7C7B\u7684\u9886\u5730\u3002"
+      - These "adjacent" plots can be walked through. As a result, the monsters easily
+        crossed the barrier to human territory.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D391"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920<sprite=39>   <sprite=49>+500"
+      - cost20<sprite=39>   <sprite=49>+500
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D392"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920<sprite=39>   <sprite=56>+3"
+      - cost20<sprite=39>   <sprite=56>+3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u82B1\u8D393"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u82B1\u8D3920<sprite=39>   <sprite=55>+3"
+      - cost20<sprite=39>   <sprite=55>+3
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u611F\u8C22\u8D2D\u4E70"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u611F\u8C22\u8D2D\u4E70\uFF0C\u8FD8\u8981\u518D\u4E70\u4E9B\u4EC0\u4E48\u5417\uFF1F"
+      - Thanks for the purchase, but what else to buy?
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u542C\u8BF4\u5B9D\u7BB1\u602A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u542C\u8BF4\u5B9D\u7BB1\u602A\u5728\u6218\u6597\u4E2D\u4F1A\u62A2\u5148\u5BF9\u73A9\u5BB6\u53D1\u52A8\u653B\u51FB\uFF0C\u4F46\u51FB\u8D25\u540E\u4F1A\u6389\u843D\u5927\u91CF\u91D1\u5E01\u3002"
+      - It has been heard that Mimics will attack the player first in battle, but
+        will drop a large amount of gold when defeated.
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6211\u5DF2\u8C03\u67E5\u6E05\u695A"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u6211\u5DF2\u8C03\u67E5\u6E05\u695A\uFF0C\u4E00\u5757\u6765\u81EA\u5929\u5916\u7684\u6C34\u6676\u662F\u5BFC\u81F4\u8FD9\u4E2A\u533A\u57DF\u900F\u89C6\u6CD5\u5219\u5931\u6548\u7684\u539F\u56E0\u3002\u5B83\u4F4D\u6D53\u96FE\u4E4B\u4E2D\uFF0C\u4F1A\u5BF9\u9760\u8FD1\u5B83\u7684\u4EBA\u53D1\u52A8\u653B\u51FB\uFF0C\u8BF7\u52A1\u5FC5\u5C0F\u5FC3\u3002 
+        --\u5B66\u8005\u514B\u91CC\u592B"
+      - I've investigated that a crystal from beyond the heavens is the cause of
+        the failure of the laws of perspective in this area. It is located in a thick
+        fog and will attack anyone who comes near it, so be careful.  --Scholar Cliff
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u83B7\u5F97\u94F2\u5B50"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u83B7\u5F97\u94F2\u5B50\uFF0C\u53EF\u7528\u4E8E\u6316\u6398\u57CB\u85CF\u7684\u7269\u54C1"
+      - Obtain a shovel, which can be used to dig up buried items
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u76EE\u524D\u672C\u5173\u5361\u544A\u4E00\u6BB5\u843D"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u76EE\u524D\u672C\u5173\u5361\u544A\u4E00\u6BB5\u843D\uFF0C\u611F\u8C22\u60A8\u8BD5\u73A9\u6211\u4EEC\u7684\u6E38\u620F"
+      - Now that this level has come to an end, thank you for playing our game
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u6211\u5230\u5E95\u662F\u4E0A\u4E86\u4E24\u6BB5\u53F0\u9636\u8FD8\u662F\u8D70\u4E86\u4E00\u6BB5\u5E73\u8DEF"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5F00\u9501\u6D88\u801754"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5F00\u9501\u6D88\u8017    <sprite=54> x1"
+      - To unlock you need  to find <sprite=54> x1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5F00\u9501\u6D88\u801787"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5F00\u9501\u6D88\u8017    <sprite=87> x1"
+      - To unlock you need  to find <sprite=87> x1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    - Term: "\u5F00\u9501\u6D88\u801741"
+      TermType: 0
+      Description: 
+      Languages:
+      - "\u5F00\u9501\u6D88\u8017    <sprite=41> x1"
+      - To unlock you need  to find <sprite=41> x1
+      - 
+      Flags: 000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: Chinese
+      Code: zh
+      Flags: 0
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1
